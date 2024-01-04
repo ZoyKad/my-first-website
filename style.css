@@ -1,0 +1,54 @@
+body {
+  font-family:Arial, Helvetica, sans-serif;
+  background-color: rgb(34, 31, 31);
+}
+
+h1 {
+  color: white;
+}
+
+.appicon {
+  display:inline-table;
+  width: 10%;
+}
+
+.galleryImage {
+  height: 400px;
+}
+
+.space {
+  margin-top: 10%;
+}
+
+a:link {
+  color: yellow;
+  font-size: 200%;
+  background-color: transparent;
+  text-decoration: none;
+}
+  
+a:visited {
+  color: rgb(133, 100, 0);
+    
+  background-color: transparent;
+  text-decoration: none;
+}
+  
+a:hover {
+  color: orange;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table {
+  color: yellow;
+}
+
+tr {
+  background-color: rgb(113, 41, 0);
+}
+
+td, th {
+  font-size: 200%;
+  padding: 10px;
+}
